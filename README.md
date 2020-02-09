@@ -16,3 +16,6 @@ It is a CycleGAN trained by ClelebA.
 
 Download the pretrained model from:
 https://drive.google.com/file/d/1f_aOl_u2jxYF9FvekX1mf2E_MIU2rNwW/view?usp=sharing
+
+For runing this program, you need:  
+Tensorflow 1.08+
